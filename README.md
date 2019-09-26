@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=H4XlBTPv5rQ&feature=youtu.be
 4. Watched Siraj Raval video on Decision Forest and Random Forest for clarity
 https://www.youtube.com/watch?v=QHOazyP-YlM
 
-WHAT I LEARNT
+## WHAT I LEARNT
 * The collection of Decision Tree is Random Forest
 * Random Forest used for both Classification and Regression problem
 * Random Forest is good for small dataset.

@@ -14,3 +14,4 @@ WHAT I LEARNT
 * The collection of Decision Tree is Random Forest
 * Random Forest used for both Classification and Regression problem
 * Random Forest is good for small dataset.
+* Broadened my knowledge on Matrix multiplication and Matrix dot product

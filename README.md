@@ -5,10 +5,12 @@ Day 1 : 26th/09/2019
 
 
 2. Completed Lesson 1 on deep learning nanodegree class.
-
-
 3. Revisited mlcourses.ai lesson on DEcision Trees and Random Forest.
+https://www.youtube.com/watch?v=H4XlBTPv5rQ&feature=youtu.be
+4. Watched Siraj Raval video on Decision Forest and Random Forest for clarity
+https://www.youtube.com/watch?v=QHOazyP-YlM
 
-
-4. Watched Siraj video on Decision Forest and Random Forest for clarity
-
+WHAT I LEARNT
+* The collection of Decision Tree is Random Forest
+* Random Forest used for both Classification and Regression problem
+* Random Forest is good for small dataset.

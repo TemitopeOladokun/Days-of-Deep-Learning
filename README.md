@@ -1,6 +1,6 @@
 # 30-days-of-Udacity
 
-Day 1 : 26th/09/2019
+## Day 1 : 26/09/2019
 1. I took the pledge #30 days of Udacity in my Deep Learning Nanodegree.
 ![](https://github.com/TemitopeOladokun/30-days-of-Udacity/blob/master/Screenshot%20(244).png)
 2. Completed Lesson 1 on deep learning nanodegree class.

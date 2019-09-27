@@ -19,7 +19,9 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 
 ## Day 2 : 27/09/2019
 1. I started Introduction to Neural Networks
-2. 
+2. Broadened my knowledge on Perceptron
+https://deepai.org/machine-learning-glossary-and-terms/perceptron
+3. 
 
 
 ### WHAT I LEARNT

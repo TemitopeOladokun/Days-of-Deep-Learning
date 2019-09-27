@@ -15,3 +15,11 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 * Random Forest is good for small dataset.
 * Broadened my knowledge on Matrix multiplication and Matrix dot product
 * Decision tree is prone to error and it is instable
+
+
+## Day 2 : 27/09/2019
+1. I started Introduction to Neural Networks
+2. 
+
+
+### WHAT I LEARNT

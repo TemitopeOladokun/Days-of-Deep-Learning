@@ -19,9 +19,16 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 
 ## Day 2 : 27/09/2019
 1. I started Introduction to Neural Networks
-2. Broadened my knowledge on Perceptron
-https://deepai.org/machine-learning-glossary-and-terms/perceptron
-3. 
-
+2. Broadened my knowledge on Perceptron    https://deepai.org/machine-learning-glossary-and-terms/perceptron
+3. Watched a video on step function    https://www.youtube.com/watch?v=tHwpj9b4zZo
 
 ### WHAT I LEARNT
+* The heart of deep learning is Neural Network 
+* Neural networks have nodes, edges, layers
+* Perceptron is an algorithm for binary classifier. It consist of foru main parts : Inptu values, Weights and biases, net sum and an activation function
+* Another name for Perception is Linear Binary Classifier
+* Default equation:
+                    ##Equation = Wx + Bias
+                    W = Weights
+                    x = Values
+                    B = Bias 

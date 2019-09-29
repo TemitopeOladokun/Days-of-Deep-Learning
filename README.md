@@ -51,7 +51,19 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 * Vector is a N x 1 matrix
 
 
+## Day 4: 29/09/2019
+1. Lesson 1:12 - Non- Linear Region
+2. Lesson 1:13 - Error Function
+3. Lesson 1:14 - Softmax
+4. Broadened my knowledge about softmax   https://developers.google.com/machine-learning/crash-course/multi-class-neural-networks/softmax
 
+### WHAT I LEARNT
+* Error function is used to detect how close we are to the goal
+* Error function must be differentiable
+* Error function must be continuous bot discrete
+* Predictions are answers gotten from Algorithm
+* Converting step function to discrete is by using another activation function called Sigmoid function
+* Softmax is another word for normalization of numbers
 
 
 

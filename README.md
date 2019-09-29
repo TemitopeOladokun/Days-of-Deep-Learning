@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 * Predictions are answers gotten from Algorithm
 * Converting step function to discrete is by using another activation function called Sigmoid function
 * Softmax is another word for normalization of numbers
-
+* To be proficint in AI, you need to be proficient in Object Oriented Programming
 
 
 

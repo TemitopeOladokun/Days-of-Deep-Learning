@@ -67,6 +67,11 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 * To be proficint in AI, you need to be proficient in Object Oriented Programming
 
 
+## Day 5: 30/09/2019
+1. Completed Lesson 1
+2. Started Lesson 2
+3. Explicit video of One-Hot Encoding  https://www.youtube.com/watch?v=v_4KWmkwmsU 
+4. Watched this video image classifier https://www.youtube.com/watch?v=cAICT4Al5Ow
 
 
                                 

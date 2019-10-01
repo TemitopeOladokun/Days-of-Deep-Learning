@@ -74,6 +74,13 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 4. Watched this video image classifier https://www.youtube.com/watch?v=cAICT4Al5Ow
 
 
+
+
+## Day 6: 01/10/2019
+1. Completed Lesson 2 - Implementing Gradient Descent
+2. Started and Completed Lesson 3 - Training neural networks
+
+
                                 
 
 

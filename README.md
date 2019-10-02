@@ -81,9 +81,11 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 2. Started and Completed Lesson 3 - Training neural networks
 
 
-                                
-
-
+                        
+## Day 7: 02/10/2019
+1. Trying to Style Trasnfer my picture but not working. Trying to fix the error
+2. Started Lesson 4 
+3. Read a little about style Transfer
 
 
 

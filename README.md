@@ -89,7 +89,7 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 
 
 ## DAY 8: 03/10/2019
-1.	Completed Lesson 1
+1.	Completed all subtopics in Lesson 2 - Neural Networks 
 2.	Viewed my first project – Predicting Bike share pattern
 
 

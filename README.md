@@ -88,6 +88,18 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 3. Read a little about style Transfer
 
 
+## DAY 8: 03/10/2019
+1.	Completed Lesson 1
+2.	Viewed my first project – Predicting Bike share pattern
+
+
+### WHAT I LEARNT
+* Difference between Underfitting and Overfitting
+* What is Regularization? 
+* L1 and L2 Regularization
+* Dropout is the solution to Overfitting
+* Random Restart is use to solve the problem of local minimum
+* Other Activation function aside Sigmoid. They are Hyperbolic Tangent Function and Rectified Linear Unit (RELU) Function
 
 
 

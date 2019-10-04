@@ -102,5 +102,15 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 * Other Activation function aside Sigmoid. They are Hyperbolic Tangent Function and Rectified Linear Unit (RELU) Function
 
 
+## DAY 9: 04/10/2019
+1. Working on my project - Predicting Bike-sharing Patterns
+2. Trying to style transfer my images with the fast style transfer code 
+3. Reading about how to build neural network with pytorch  
+https://www.datahubbs.com/deep-learning-101-first-neural-network-with-pytorch/?fbclid=IwAR2_MxZ6aAgWKunezBjgCPn4mIE_tpflWLFZ0yMv-kBDsTD8KpwGlqRrYyU
 
+
+### WHAT I LEARNT
+* It is very interesting when you see the concepts of the class been implemented with codes.
+* Learnt Forwardfeed Propagation and Back Propagation
+* How to tune hyperparameters : Learning rate, number of iteractions et cetera
 

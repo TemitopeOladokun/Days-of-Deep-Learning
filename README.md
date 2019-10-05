@@ -114,3 +114,8 @@ https://www.datahubbs.com/deep-learning-101-first-neural-network-with-pytorch/?f
 * Learnt Forwardfeed Propagation and Back Propagation
 * How to tune hyperparameters : Learning rate, number of iteractions et cetera
 
+
+## Day 10: 05/10/2019
+1. Working on my project - Predicting Bike-sharing Patterns
+2. Learning how to use Github professionally
+3. Built multivariable using Linear regression

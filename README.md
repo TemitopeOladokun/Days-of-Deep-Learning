@@ -129,6 +129,6 @@ https://www.datahubbs.com/deep-learning-101-first-neural-network-with-pytorch/?f
 ## DAY 12: 07/10/2019
 
 1. Submitted my first project on Predicting Bike-sharing Patterns
-2. Started lessons on Sentiment analysis
+2. Continued lessons on Sentiment analysis
 
 

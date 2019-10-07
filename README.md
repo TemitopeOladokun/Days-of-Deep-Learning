@@ -117,17 +117,18 @@ https://www.datahubbs.com/deep-learning-101-first-neural-network-with-pytorch/?f
 
 ## DAY 10: 05/10/2019
 1. Working on my project - Predicting Bike-sharing Patterns
-2. Learning how to use Github professionally
+2. Learning how to use Github professionally. Using https://www.udacity.com material 
 3. Built multivariable using Linear regression
 
 
 ## DAY 11: 06/10/2019
 1. Working on my project - Predicting Bike-sharing Patterns
-2.  Started Sentiment analysis videos
+2. Started Sentiment analysis videos
 
 
+## DAY 12: 07/10/2019
 
-
-
+1. Submitted my first project on Predicting Bike-sharing Patterns
+2. Started lessons on Sentiment analysis
 
 

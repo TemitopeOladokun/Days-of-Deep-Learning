@@ -132,3 +132,9 @@ https://www.datahubbs.com/deep-learning-101-first-neural-network-with-pytorch/?f
 2. Continued lessons on Sentiment analysis
 
 
+## DAY 13:  08/10/2019
+1.  I continued my course on sentiment analysis
+2. Dived into some documentation in Python
+
+
+

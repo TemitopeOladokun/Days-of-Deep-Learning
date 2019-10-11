@@ -144,3 +144,8 @@ https://www.datahubbs.com/deep-learning-101-first-neural-network-with-pytorch/?f
 
 ## DAY 15: 10/10/2019
 1. Solving the projects in Sentiment analysis videos
+
+
+## DAY 16: 11/10/2019
+1. Watched some videos on Neural Network
+2. Read some medium article

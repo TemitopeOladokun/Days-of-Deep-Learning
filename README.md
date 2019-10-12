@@ -149,3 +149,13 @@ https://www.datahubbs.com/deep-learning-101-first-neural-network-with-pytorch/?f
 ## DAY 16: 11/10/2019
 1. Watched some videos on Neural Network
 2. Read some medium article
+
+
+## Day 17: 12/10/2019
+1. Attended a meetup where Linear regression and logistic regression were discussed
+2. Learnt about the difference in their equations
+3. Read some articles on neural network
+4. I discovered there are some similarities between AI and Robotics
+
+### WHAT I LEARNT
+* I discovered that if linear equation is been used for logistic regression, it makes it difficult to identify the local minimum.

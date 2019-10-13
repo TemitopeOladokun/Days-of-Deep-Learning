@@ -151,7 +151,7 @@ https://www.datahubbs.com/deep-learning-101-first-neural-network-with-pytorch/?f
 2. Read some medium article
 
 
-## Day 17: 12/10/2019
+## DAY 17: 12/10/2019
 1. Attended a meetup where Linear regression and logistic regression were discussed
 2. Learnt about the difference in their equations
 3. Read some articles on neural network
@@ -159,3 +159,8 @@ https://www.datahubbs.com/deep-learning-101-first-neural-network-with-pytorch/?f
 
 ### WHAT I LEARNT
 * I discovered that if linear equation is been used for logistic regression, it makes it difficult to identify the local minimum.
+
+
+## DAY 18: 13/10/2019
+1. Revisiting Bayes Rule in Introduction to Machine Learning Udacity's video
+2. Read article about it   https://towardsdatascience.com/what-is-bayes-rule-bb6598d8a2fd

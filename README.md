@@ -167,7 +167,7 @@ https://www.datahubbs.com/deep-learning-101-first-neural-network-with-pytorch/?f
 
 
 ## DAY 19:14/10/2019
-1. It is all about Algebaric mathematics
+1. It is all about Algebraic mathematics
 2. Worked on some Python code
 
 ### WHAT I LEARNT

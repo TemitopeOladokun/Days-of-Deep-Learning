@@ -164,3 +164,13 @@ https://www.datahubbs.com/deep-learning-101-first-neural-network-with-pytorch/?f
 ## DAY 18: 13/10/2019
 1. Revisiting Bayes Rule in Introduction to Machine Learning Udacity's video
 2. Read article about it   https://towardsdatascience.com/what-is-bayes-rule-bb6598d8a2fd
+
+
+## DAY 19:14/10/2019
+1. It is all about Algebaric mathematics
+2. Worked on some Python code
+
+### WHAT I LEARNT
+* Impossibility is a Mirage
+
+

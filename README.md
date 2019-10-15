@@ -171,6 +171,16 @@ https://www.datahubbs.com/deep-learning-101-first-neural-network-with-pytorch/?f
 2. Worked on some Python code
 
 ### WHAT I LEARNT
-* Impossibility is a Mirage
+* Impossibility is a Mirage - Brace up
+* Brushin up on Python Object Oriented Programming
 
 
+## DAY 20: 15/10/2019
+1. Learning Algebraic concept. Thank you Udacity for an awesome material
+2. Revisiting sentiment analysis
+3. This article is enlightening    https://medium.com/dsnet/chai-time-data-science-show-announcement-bfaaf38df219
+Tomorrow is another day for a good progress
+
+### WHAT I LEARNT
+* There is nothing as good has learning the basis
+* Avoid assumptions

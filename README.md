@@ -184,3 +184,9 @@ Tomorrow is another day for a good progress
 ### WHAT I LEARNT
 * There is nothing as good has learning the basis
 * Avoid assumptions
+
+
+## DAY 21: 16/10/2019
+1. Sorted out the error in my sentiment analysis code
+2. Rounding up the lesson and moving on to Introduction to Deep Learning with Pytorch
+

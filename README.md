@@ -190,3 +190,8 @@ Tomorrow is another day for a good progress
 1. Sorted out the error in my sentiment analysis code
 2. Rounding up the lesson and moving on to Introduction to Deep Learning with Pytorch
 
+
+## DAY 22: 17/10/2019
+1. Going through Introduction to Deep Learning with Pytorch
+2. Read about fully connected network  https://www.oreilly.com/library/view/tensorflow-for-deep/9781491980446/ch04.html
+

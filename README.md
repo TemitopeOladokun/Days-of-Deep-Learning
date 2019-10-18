@@ -195,3 +195,8 @@ Tomorrow is another day for a good progress
 1. Going through Introduction to Deep Learning with Pytorch
 2. Read about fully connected network  https://www.oreilly.com/library/view/tensorflow-for-deep/9781491980446/ch04.html
 
+
+
+## DAY 23:18/10/2019
+1. Watching Introduction to Deep Learning with Pytorch videos
+2. Going through the codes too

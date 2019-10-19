@@ -200,3 +200,10 @@ Tomorrow is another day for a good progress
 ## DAY 23:18/10/2019
 1. Watching Introduction to Deep Learning with Pytorch videos
 2. Going through the codes too
+
+
+## DAY 24: 19/10/2019
+1. Revised Sentiment analysis project
+
+
+

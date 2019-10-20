@@ -206,4 +206,5 @@ Tomorrow is another day for a good progress
 1. Revised Sentiment analysis project
 
 
-
+## DAY 25: 20/10/2019
+1. Revising Backpropagation and also reading some articles

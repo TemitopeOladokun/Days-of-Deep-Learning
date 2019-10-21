@@ -208,3 +208,8 @@ Tomorrow is another day for a good progress
 
 ## DAY 25: 20/10/2019
 1. Revising Backpropagation and also reading some articles
+
+
+## DAY 26: 21/10/2019
+1. Learning the basis has been an amazing experience - Essential mathematics topics in AI
+2. Read some articles about AI and Deep Learning

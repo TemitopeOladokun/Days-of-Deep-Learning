@@ -225,4 +225,4 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 ### WHAT I LEARNT
 * I also discovered that DREAMS are VALID but HARD-WORK AUTHENTICATE it.
 * ![](https://github.com/TemitopeOladokun/30-days-of-Udacity/blob/master/Screenshot%20(296).png)
-* ![]()
+* ![](https://github.com/TemitopeOladokun/30-days-of-Udacity/blob/master/Screenshot%20(297).png)

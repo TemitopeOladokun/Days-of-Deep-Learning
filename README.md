@@ -213,3 +213,15 @@ Tomorrow is another day for a good progress
 ## DAY 26: 21/10/2019
 1. Learning the basis has been an amazing experience - Essential mathematics topics in AI
 2. Read some articles about AI and Deep Learning
+
+
+
+## DAY 27: 22/10/2019
+1. Clarified my doubt on Linear regression and logistic regression
+https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
+2. Revising Introduction to deep learning with Pytorch
+3. Watched a video about element-wise operation https://www.youtube.com/watch?v=2GPZlRVhQWY
+
+### WHAT I LEARNT
+* I also discovered that DREAMS are VALID but HARD-WORK AUTHENTICATE it.
+* 

@@ -235,3 +235,4 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 
 ## DAY 29: 24/10/2019
 1. Watched transfer learning videos
+2. Solved some mathematics question

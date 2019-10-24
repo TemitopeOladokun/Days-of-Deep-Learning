@@ -233,5 +233,5 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 2. Solved Network Architecture with Pytorch
 
 
-Day 29: 24/10/2019
+## DAY 29: 24/10/2019
 1. Watched transfer learning videos

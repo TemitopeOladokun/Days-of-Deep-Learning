@@ -231,3 +231,7 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 ## DAY 28: 23/10/2019
 1. Solving Project 4 in Sentiment analysis
 2. Solved Network Architecture with Pytorch
+
+
+Day 29: 24/10/2019
+1. Watched transfer learning videos

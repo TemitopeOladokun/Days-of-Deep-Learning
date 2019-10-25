@@ -240,6 +240,6 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 4. Read some articles about RNN
 
 
-Day 30: 25/10/2019
+## DAY 30: 25/10/2019
 1. Started Convolutional Neural Network
 2. Attended the Webinar by Sourena Yadegari (My Mentor)

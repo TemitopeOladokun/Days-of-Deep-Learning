@@ -248,3 +248,7 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 ## DAY 31: 26/10/2019
 1. Continued with my CNN Videos
 2. Read some CNN articles
+
+
+## DAY 32: 27/10/2019
+1. Read an article on MLP, CNN and its application with Pytorch

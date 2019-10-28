@@ -252,3 +252,8 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 
 ## DAY 32: 27/10/2019
 1. Read an article on MLP, CNN and its application with Pytorch
+
+
+## DAT 33: 28/10/2019
+1. Started the video on MLPs vs CNN
+2. Learnt about Filters and Convolutional layer

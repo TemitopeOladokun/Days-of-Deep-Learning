@@ -1,6 +1,6 @@
 # 30-days-of-Udacity
 
-## Day 1 : 26/09/2019
+## DAY 1 : 26/09/2019
 1. I took the pledge #30daysofUdacity in my Deep Learning Nanodegree.
 ![](https://github.com/TemitopeOladokun/30-days-of-Udacity/blob/master/Screenshot%20(244).png)
 2. Completed Lesson 1 on deep learning nanodegree class.
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 
 
 
-## Day 2 : 27/09/2019
+## DAY 2 : 27/09/2019
 1. I started Introduction to Neural Networks
 2. Broadened my knowledge on Perceptron    https://deepai.org/machine-learning-glossary-and-terms/perceptron
 3. Watched a video on step function    https://www.youtube.com/watch?v=tHwpj9b4zZo
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 
 
 
-## Day 3 : 28/09/2019
+## DAY 3 : 28/09/2019
 1. Read about the cost function equation
 2. I learnt categories of model in Data Science
 3. Different between local and global minimum   https://statinfer.com/204-5-10-local-vs-global-minimum/
@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 * Vector is a N x 1 matrix
 
 
-## Day 4: 29/09/2019
+## DAY 4: 29/09/2019
 1. Lesson 1:12 - Non- Linear Region
 2. Lesson 1:13 - Error Function
 3. Lesson 1:14 - Softmax
@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 * To be proficint in AI, you need to be proficient in Object Oriented Programming
 
 
-## Day 5: 30/09/2019
+## DAY 5: 30/09/2019
 1. Completed Lesson 1
 2. Started Lesson 2
 3. Explicit video of One-Hot Encoding  https://www.youtube.com/watch?v=v_4KWmkwmsU 
@@ -76,13 +76,13 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 
 
 
-## Day 6: 01/10/2019
+## DAY 6: 01/10/2019
 1. Completed Lesson 2 - Implementing Gradient Descent
 2. Started and Completed Lesson 3 - Training neural networks
 
 
                         
-## Day 7: 02/10/2019
+## DAY 7: 02/10/2019
 1. Trying to Style Trasnfer my picture but not working. Trying to fix the error
 2. Started Lesson 4 
 3. Read a little about style Transfer
@@ -91,7 +91,6 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 ## DAY 8: 03/10/2019
 1.	Completed all subtopics in Lesson 2 - Neural Networks 
 2.	Viewed my first project – Predicting Bike share pattern
-
 
 ### WHAT I LEARNT
 * Difference between Underfitting and Overfitting
@@ -254,7 +253,7 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 1. Read an article on MLP, CNN and its application with Pytorch
 
 
-## DAT 33: 28/10/2019
+## DAY 33: 28/10/2019
 1. Started the video on MLPs vs CNN
 2. Learnt about Filters and Convolutional layer
 3. Filters and Egdes

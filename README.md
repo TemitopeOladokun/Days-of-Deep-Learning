@@ -255,8 +255,8 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 
 ## DAY 33: 28/10/2019
 1. Started the video on MLPs vs CNN
-2. Learnt about Filters and Convolutional layer
-3. Filters and Egdes
+2. Learnt about Filters and Convolution layer
+3. Filters and Edges
 4. Frequency in Images as regards CNN
 
 ### WHAT I LEARNT

@@ -262,3 +262,4 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 
 ### WHAT I LEARNT
 * MLPs convert images to Tensor while CNN convert to matrix
+* CNN gropus in edges

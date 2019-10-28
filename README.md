@@ -260,4 +260,5 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 3. Filters and Egdes
 4. Frequency in Images as regards CNN
 
-
+### WHAT I LEARNT
+* MLPs convert images to Tensor while CNN convert to matrix

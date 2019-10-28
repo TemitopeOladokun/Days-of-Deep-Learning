@@ -264,3 +264,4 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 * MLPs convert images to Tensor while CNN convert to matrix
 * CNN groups in edges
 * Frequnecy in CNN is similar to that of sound wave
+* MLPs are fully connected while CNN are sparsely connected. This leads to the network less dense

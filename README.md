@@ -262,4 +262,5 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 
 ### WHAT I LEARNT
 * MLPs convert images to Tensor while CNN convert to matrix
-* CNN gropus in edges
+* CNN groups in edges
+* Frequnecy in CNN is similar to that of sound wave

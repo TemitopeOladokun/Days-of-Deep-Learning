@@ -264,3 +264,7 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 * CNN groups in edges
 * Frequnecy in CNN is similar to that of sound wave
 * MLPs are fully connected while CNN are sparsely connected. This leads to the network less dense
+
+
+## DAY 34: 29/10/2019
+1. Learnt about Pooling 

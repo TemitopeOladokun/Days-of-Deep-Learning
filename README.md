@@ -272,3 +272,4 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 3. Image Augmentation
 4. Visualizing CNN
 5. CNNs in Pytorch
+6. Augmentation using transfer learning

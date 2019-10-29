@@ -269,3 +269,5 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 ## DAY 34: 29/10/2019
 1. Learnt about Pooling 
 2. Covolution layers in Pytorch
+3. Image Augmentation
+4. Visualizing CNN

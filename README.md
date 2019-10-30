@@ -282,3 +282,7 @@ https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 * I discovered Concatenated ReLU was used here. Concatenated RELU is used to reduce redundancy that ReLU might have caused. It is denoted as C-ReLU     https://arxiv.org/pdf/1603.05201.pdf
 * What is C-ReLU? https://arxiv.org/abs/1603.05201
 * Increasing the depth of the convolution layer, it enables you to get more features
+* Features becomes more subtle when the layers are increased
+* There are different CNN solution that can be used for Trasnfer Learning: ImageNet, RestNet, VGG 16 
+
+

@@ -279,3 +279,6 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 Parametric ReLU is a type of Leaky ReLU that figures out its slope itself.
 https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7
 https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
+* I discovered Concatenated ReLU was used here. Concatenated RELU is used to reduce redundancy that ReLU might have caused. It is denoted as C-ReLU     https://arxiv.org/pdf/1603.05201.pdf
+* What is C-ReLU? https://arxiv.org/abs/1603.05201
+* Increasing the depth of the convolution layer, it enables you to get more features

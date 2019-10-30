@@ -283,6 +283,18 @@ https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 * What is C-ReLU? https://arxiv.org/abs/1603.05201
 * Increasing the depth of the convolution layer, it enables you to get more features
 * Features becomes more subtle when the layers are increased
-* There are different CNN solution that can be used for Trasnfer Learning: ImageNet, RestNet, VGG 16 
+* There are different CNN Architecture that can be used for Transfer Learning: ImageNet, RestNet, VGG 16 
 
 
+## DAY 35: 30/10/2019
+1. Transfer Learning
+2. Weight Initalization
+3. Constant weight 
+4. Normal Distribution and Random Uniform Distrubtion
+
+### WHAT I LEARNT 
+* Using constant weights make back propagation to fail becasue it is not design to deal with consistency
+* Back propagation is designed to look at how different weight value affect training loss 
+* Solution to a constant weight syndrome is choosing a random weight
+* To get random weight, use uniform distribution
+* Weight Initialization is about giving the model best chance to train

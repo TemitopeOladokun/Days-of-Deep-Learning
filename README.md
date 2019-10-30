@@ -273,3 +273,9 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 4. Visualizing CNN
 5. CNNs in Pytorch
 6. Augmentation using transfer learning
+
+### WHAT I LEARNT 
+* ReLU is mostly used in CNN because the slope of the graph doesnot saturate(approach zero). Stacking convolution layers requires a constant gradient instead of a diminished value. Leaky ReLU can also be used.
+Parametric ReLU is a type of Leaky ReLU that figures out its slope itself.
+https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7
+https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6

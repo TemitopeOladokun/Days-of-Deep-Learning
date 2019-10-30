@@ -288,9 +288,9 @@ https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 
 ## DAY 35: 30/10/2019
 1. Transfer Learning
-2. Weight Initalization
+2. Weight Initailization
 3. Constant weight 
-4. Normal Distribution and Random Uniform Distrubtion
+4. Normal Distribution and Random Uniform Distribution
 
 ### WHAT I LEARNT 
 * Using constant weights make back propagation to fail becasue it is not design to deal with consistency

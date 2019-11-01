@@ -298,3 +298,7 @@ https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 * Solution to a constant weight syndrome is choosing a random weight
 * To get random weight, use uniform distribution
 * Weight Initialization is about giving the model best chance to train
+
+
+## DAY 36: 01/11/2019
+1. Completed my videos on Weight Initialization

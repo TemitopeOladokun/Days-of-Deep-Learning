@@ -302,3 +302,6 @@ https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 
 ## DAY 36: 01/11/2019
 1. Completed my videos on Weight Initialization
+
+## DAY 37: 02/11/2019 
+1. Working on my second project.

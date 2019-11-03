@@ -235,8 +235,8 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 ## DAY 29: 24/10/2019
 1. Watched transfer learning videos
 2. Solved some mathematics question
-3. Read some articles about CNN
-4. Read some articles about RNN
+3. Read some articles about Covolution Neural Network
+4. Read some articles about Recurrent Neural Network
 
 
 ## DAY 30: 25/10/2019
@@ -262,7 +262,7 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 ### WHAT I LEARNT
 * MLPs convert images to Tensor while CNN convert to matrix
 * CNN groups in edges
-* Frequnecy in CNN is similar to that of sound wave
+* Frequency in CNN is similar to that of sound wave
 * MLPs are fully connected while CNN are sparsely connected. This leads to the network less dense
 
 

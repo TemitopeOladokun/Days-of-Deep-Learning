@@ -305,3 +305,12 @@ https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 
 ## DAY 37: 02/11/2019 
 1. Working on my second project.
+
+
+## DAY 38: 03/11/2019
+1. Started watching videos on Autoencoder
+
+
+### WHAT I LEARNT
+* Autoencoder is use to compress images without lossing its content
+* 

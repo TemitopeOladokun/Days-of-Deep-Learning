@@ -314,3 +314,7 @@ https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 ### WHAT I LEARNT
 * Autoencoder is use to compress images without losing its content
 * 
+
+
+## DAY 39: 04/11/2019 
+1. Read some articles about CNN and RNN

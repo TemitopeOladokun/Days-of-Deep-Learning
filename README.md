@@ -317,7 +317,8 @@ https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 
 ## DAY 39: 04/11/2019 
 1. Read some articles about CNN and RNN
-
+2. Article on Pytorch and Neural Network
+https://medium.com/dair-ai/pytorch-1-2-introduction-guide-f6fa9bb7597c
 
 ## DAY 40: 05/11/2019
 1. Indepth knowledge abut Haar-code object detection in OpenCV 

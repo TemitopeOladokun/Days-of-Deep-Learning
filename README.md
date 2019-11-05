@@ -313,8 +313,14 @@ https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 
 ### WHAT I LEARNT
 * Autoencoder is use to compress images without losing its content
-* 
-
+ 
 
 ## DAY 39: 04/11/2019 
 1. Read some articles about CNN and RNN
+
+
+## DAY 40: 05/11/2019
+1. Indepth knowledge abut Haar-code object detection in OpenCV 
+https://docs.opencv.org/trunk/db/d28/tutorial_cascade_classifier.html
+2. Open CV dataset
+https://github.com/opencv/opencv/tree/master/data/haarcascades

@@ -325,3 +325,13 @@ https://medium.com/dair-ai/pytorch-1-2-introduction-guide-f6fa9bb7597c
 https://docs.opencv.org/trunk/db/d28/tutorial_cascade_classifier.html
 2. Open CV dataset
 https://github.com/opencv/opencv/tree/master/data/haarcascades
+
+
+## DAY 41: 06/11/2019
+1. Gradient Descent for Machine Learning 
+https://machinelearningmastery.com/gradient-descent-for-machine-learning/
+
+
+### WHAT I LEARNT
+* Stochastic gradient descent is been used when we have large dataset. 
+*

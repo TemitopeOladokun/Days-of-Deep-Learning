@@ -330,8 +330,15 @@ https://github.com/opencv/opencv/tree/master/data/haarcascades
 ## DAY 41: 06/11/2019
 1. Gradient Descent for Machine Learning 
 https://machinelearningmastery.com/gradient-descent-for-machine-learning/
-
+2. More information about activation functions
+http://cs231n.github.io/neural-networks-1/#actfun
+https://www.datasciencecentral.com/profiles/blogs/deep-learning-advantages-of-relu-over-sigmoid-function-in-deep
+3. First research paper on Dropout
+https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 
 ### WHAT I LEARNT
 * Stochastic gradient descent is been used when we have large dataset. 
-*
+* Sigmoid function has been mostly used but recently there is a shift in the usage because of its drawback.
+* The two drawbacks for sigmoid are: (1) Sigmoid saturates and kills gradient descent (2) The output is not zero centred
+* Tanh is a scaled sigmoid neuron
+* Tanh non-linearity is mostly preferred to Sigmoid non linearity

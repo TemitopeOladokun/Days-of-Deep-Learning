@@ -345,3 +345,10 @@ https://youtu.be/QUT1VHiLmmI
 * Tanh is a scaled sigmoid neuron
 * Tanh non-linearity is mostly preferred to Sigmoid non linearity
 * Numpy is faster than List 
+
+
+## DAY 42:07/11/2019
+1. Working on my project 
+
+### What I Learnt
+* It might take longer than I expected

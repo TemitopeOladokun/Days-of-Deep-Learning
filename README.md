@@ -352,3 +352,12 @@ https://youtu.be/QUT1VHiLmmI
 
 ### What I Learnt
 * It might take longer than I expected
+
+## DAY 43: 08/11/2019
+1. Revising numpy and matrix libraries
+
+
+### WHAT I LEARNT
+* How to write lower and upper triangular matrix in code  
+* Learnt how to manipulate numpy to do my task
+* It is always impossible till you TRY. STAY HUNGRY

@@ -370,3 +370,7 @@ https://youtu.be/QUT1VHiLmmI
 ### WHAT I LEARNT
 * Data Augmentation makes the data generalize well
 * The number infront of the model architecture indicates the number of layers. For example; VGG16 has 16 layers in the model
+* The larger the number of layers, computation time is lengthy but reduces the number of error.
+* What is learnt from a datsset, it is transferred to my dataset. This is what we call TRANSFER LEARNING
+* Scale Invariance is when the size of the object doesnot not affect the prediction of the model
+

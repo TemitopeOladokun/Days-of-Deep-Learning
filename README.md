@@ -361,3 +361,10 @@ https://youtu.be/QUT1VHiLmmI
 * How to write lower and upper triangular matrix in code  
 * Learnt how to manipulate numpy to do my task
 * It is always impossible till you TRY. STAY HUNGRY
+
+## DAY 44: 09/11/2019
+1. Data Augmentation
+
+
+### WHAT I LEARNT
+* Data Augmentation makes the data generalize well

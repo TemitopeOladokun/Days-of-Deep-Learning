@@ -378,3 +378,15 @@ https://youtu.be/QUT1VHiLmmI
 * Rotational Invariance is when the angular position of an object doesnot affect the prediction of the model
 * Translation Invariance is when the shifting  of the object to either the left or right doesnot affect the prediction of the model
 * Data Augmentation helps to avoid overfitting 
+
+
+## DAY 45: 10/11/2019
+1. VGG Documentation
+https://arxiv.org/pdf/1409.1556.pdf
+https://github.com/jcjohnson/cnn-benchmarks
+
+### WHAT I LEARNT
+* To convert coloured images to gray, use Python Imaging Library (PIL).   http://www.pythonware.com/products/pil/
+https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-using-python-/
+* 
+* 

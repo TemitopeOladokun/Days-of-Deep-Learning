@@ -367,3 +367,6 @@ https://youtu.be/QUT1VHiLmmI
 2. Difference between the model architecture
 3. What is Transfer Learning
 
+### WHAT I LEARNT
+* Data Augmentation makes the data generalize well
+* The number infront of the model architecture indicates the number of layers. For example; VGG16 has 16 layers in the model

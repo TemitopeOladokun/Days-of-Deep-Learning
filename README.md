@@ -375,3 +375,4 @@ https://youtu.be/QUT1VHiLmmI
 * Scale Invariance is when the size of the object doesnot not affect the prediction of the model
 * Rotational Invariance is when the angular position of an object doesnot affect the prediction of the model
 * Translation Invariance is when the shifting  of the object to either the left or right doesnot affect the prediction of the model
+* Data Augmentation helps to avoid overfitting 

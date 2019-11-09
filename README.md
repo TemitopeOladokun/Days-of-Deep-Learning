@@ -242,6 +242,7 @@ https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 ## DAY 30: 25/10/2019
 1. Started Convolutional Neural Network
 2. Attended the Webinar by Sourena Yadegari (My Mentor)
+![](https://github.com/TemitopeOladokun/30-days-of-Udacity/blob/master/30%20days%20of%20Udacity%20Form.png)
 
 
 ## DAY 31: 26/10/2019

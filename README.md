@@ -364,7 +364,6 @@ https://youtu.be/QUT1VHiLmmI
 
 ## DAY 44: 09/11/2019
 1. Data Augmentation
+2. Difference between the model architecture
+3. What is Transfer Learning
 
-
-### WHAT I LEARNT
-* Data Augmentation makes the data generalize well

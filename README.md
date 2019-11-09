@@ -373,4 +373,5 @@ https://youtu.be/QUT1VHiLmmI
 * The larger the number of layers, computation time is lengthy but reduces the number of error.
 * What is learnt from a datsset, it is transferred to my dataset. This is what we call TRANSFER LEARNING
 * Scale Invariance is when the size of the object doesnot not affect the prediction of the model
-
+* Rotational Invariance is when the angular position of an object doesnot affect the prediction of the model
+* Translation Invariance is when the shifting  of the object to either the left or right doesnot affect the prediction of the model

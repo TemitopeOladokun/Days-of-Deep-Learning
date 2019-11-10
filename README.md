@@ -385,6 +385,9 @@ https://arxiv.org/pdf/1409.1556.pdf
 https://github.com/jcjohnson/cnn-benchmarks
 2. Auto-encoder
 3. Linear Auto-encoder
+4. Linear Upsampling
+5. Convolutional Auto-encoder
+
 
 ### WHAT I LEARNT
 * To convert coloured images to gray, use Python Imaging Library (PIL).   http://www.pythonware.com/products/pil/
@@ -396,6 +399,8 @@ https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-
 * Auto-encoders are found to denoise images
 * In CNN we apply the concept of Auto-encoder by using Interpolation technique like Nearest Neighbours. This is not effective
 * The one we can use could be Transpose Convolutional Layer
+* Upsampling is the opposite of Maxpooling
+* 
 
 
 

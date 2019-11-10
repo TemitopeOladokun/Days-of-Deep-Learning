@@ -388,5 +388,5 @@ https://github.com/jcjohnson/cnn-benchmarks
 ### WHAT I LEARNT
 * To convert coloured images to gray, use Python Imaging Library (PIL).   http://www.pythonware.com/products/pil/
 https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-using-python-/
-* 
+* How to convert images to RGB https://github.com/eriklindernoren/PyTorch-YOLOv3/commit/38c246588cf7d131aac2f68cd35ba222b366c378
 * 

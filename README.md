@@ -195,7 +195,6 @@ Tomorrow is another day for a good progress
 2. Read about fully connected network  https://www.oreilly.com/library/view/tensorflow-for-deep/9781491980446/ch04.html
 
 
-
 ## DAY 23:18/10/2019
 1. Watching Introduction to Deep Learning with Pytorch videos
 2. Going through the codes too
@@ -385,6 +384,7 @@ https://youtu.be/QUT1VHiLmmI
 https://arxiv.org/pdf/1409.1556.pdf
 https://github.com/jcjohnson/cnn-benchmarks
 2. Auto-encoder
+3. Linear Auto-encoder
 
 ### WHAT I LEARNT
 * To convert coloured images to gray, use Python Imaging Library (PIL).   http://www.pythonware.com/products/pil/
@@ -394,8 +394,8 @@ https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-
 * Advantage of an Auto-encoder is that it can be used to reduce the dimensionality of an input
 * Key aspect of Auto-encoder is that it compresses and retains the data 
 * Auto-encoders are found to denoise images
-* 
-*
+* In CNN we apply the concept of Auto-encoder by using Interpolation technique like Nearest Neighbours. This is not effective
+* The one we can use could be Transpose Convolutional Layer
 
 
 

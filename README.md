@@ -393,8 +393,8 @@ https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-
 * Auto-encoder contains an encoder that compresses some input data and a decoder that reconstruct data from the compressed representation 
 * Advantage of an Auto-encoder is that it can be used to reduce the dimensionality of an input
 * Key aspect of Auto-encoder is that it compresses and retains the data 
-*
-*
+* Auto-encoders are found to denoise images
+* 
 *
 
 

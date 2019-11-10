@@ -384,9 +384,20 @@ https://youtu.be/QUT1VHiLmmI
 1. VGG Documentation
 https://arxiv.org/pdf/1409.1556.pdf
 https://github.com/jcjohnson/cnn-benchmarks
+2. Auto-encoder
 
 ### WHAT I LEARNT
 * To convert coloured images to gray, use Python Imaging Library (PIL).   http://www.pythonware.com/products/pil/
 https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-using-python-/
 * How to convert images to RGB https://github.com/eriklindernoren/PyTorch-YOLOv3/commit/38c246588cf7d131aac2f68cd35ba222b366c378
-* 
+* Auto-encoder contains an encoder that compresses some input data and a decoder that reconstruct data from the compressed representation 
+* Advantage of an Auto-encoder is that it can be used to reduce the dimensionality of an input
+* Key aspect of Auto-encoder is that it compresses and retains the data 
+*
+*
+*
+
+
+
+
+

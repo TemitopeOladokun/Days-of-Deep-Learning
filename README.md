@@ -400,7 +400,10 @@ https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-
 * In CNN we apply the concept of Auto-encoder by using Interpolation technique like Nearest Neighbours. This is not effective
 * The one we can use could be Transpose Convolutional Layer
 * Upsampling is the opposite of Maxpooling
-* 
+
+
+## DAY 46: 11/11/2019
+1. Working on my project 
 
 
 

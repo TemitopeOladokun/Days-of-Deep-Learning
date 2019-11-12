@@ -409,7 +409,7 @@ https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-
 
 ## DAY 47: 12/11/2019
 1. Examples of spatial data
-
+2. Python string Method        https://docs.python.org/3/library/stdtypes.html#string-methods
 
 ### WHAT I LEARNT
 * Images are spatial data

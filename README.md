@@ -407,6 +407,11 @@ https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-
 
 ![](https://github.com/TemitopeOladokun/30-days-of-Udacity/blob/master/Error%20Message.png)
 
+## DAY 47: 12/11/2019
+1. Examples of spatial data
 
+
+### WHAT I LEARNT
+* Images are spatial data
 
 

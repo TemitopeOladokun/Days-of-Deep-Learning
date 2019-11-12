@@ -413,5 +413,6 @@ https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-
 
 ### WHAT I LEARNT
 * Images are spatial data
-
+* List is a mutable and ordered datatype but String is only ordered
+* 
 

@@ -428,6 +428,9 @@ https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-
 
 ### WHAT I LEARNT
 * He shared some links with me
+On optimizer : http://ruder.io/optimizing-gradient-descent/index.html
+On Autoencoder: https://www.youtube.com/watch?v=uaaqyVS9-rM
+
 
 
 

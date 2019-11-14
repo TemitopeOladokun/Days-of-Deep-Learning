@@ -416,3 +416,20 @@ https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-
 * List is a mutable and ordered datatype but String is only ordered
 * 
 
+
+## DAY 48: 13/11/2019
+1. Read an article on Autoencoder
+
+
+
+
+
+
+
+
+
+
+
+
+
+

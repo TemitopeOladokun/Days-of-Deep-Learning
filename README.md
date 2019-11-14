@@ -430,8 +430,7 @@ https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-
 * He shared some links with me
 On optimizer : http://ruder.io/optimizing-gradient-descent/index.html
 On Autoencoder: https://www.youtube.com/watch?v=uaaqyVS9-rM
-
-
+* Learnt the characteristic of List, Set, Tuple, Dictionaries, Conditonal statement in Python.
 
 
 

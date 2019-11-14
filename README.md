@@ -425,13 +425,16 @@ https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-
 1. Attended a meet-up with my Udacity mentor
 2. Reviewed my code
 3. Indepth knowledge about control flow - Conditional statement in Python
+4. Autoencoders
+5. Optimizer
+6. Short hand in navigating the jupyter notebook 
 
 ### WHAT I LEARNT
 * He shared some links with me
 On optimizer : http://ruder.io/optimizing-gradient-descent/index.html
 On Autoencoder: https://www.youtube.com/watch?v=uaaqyVS9-rM
 * Learnt the characteristic of List, Set, Tuple, Dictionaries, Conditonal statement in Python.
-
+* I learnt short hand in navigating jupyter notebook. For example: Esc + l - Command mode activated
 
 
 

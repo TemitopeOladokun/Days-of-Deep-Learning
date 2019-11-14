@@ -421,6 +421,12 @@ https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-
 1. Read an article on Autoencoder
 
 
+## DAY 49: 14/11/2019
+1. Attended a meet-up with my Udacity mentor
+2. Reviewed my code
+3. Indepth knowledge about control flow - Conditional statement in Python
+
+
 
 
 

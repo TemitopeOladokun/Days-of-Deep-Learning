@@ -426,7 +426,8 @@ https://www.science-emergence.com/Articles/How-to-convert-an-image-to-grayscale-
 2. Reviewed my code
 3. Indepth knowledge about control flow - Conditional statement in Python
 
-
+### WHAT I LEARNT
+* He shared some links with me
 
 
 

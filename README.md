@@ -441,7 +441,8 @@ On Autoencoder: https://www.youtube.com/watch?v=uaaqyVS9-rM
 1. Filled 60 days of Udacity 
 
 
-
+## DAY 51: 16/11/2019
+1. I got my badge 
 
 
 

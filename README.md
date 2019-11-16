@@ -437,6 +437,9 @@ On Autoencoder: https://www.youtube.com/watch?v=uaaqyVS9-rM
 * I learnt short hand in navigating jupyter notebook. For example: Esc + l - Command mode activated
 
 
+## DAY 50: 15/11/2019
+1. Filled 60 days of Udacity 
+
 
 
 

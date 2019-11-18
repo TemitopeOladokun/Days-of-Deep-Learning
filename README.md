@@ -445,7 +445,10 @@ On Autoencoder: https://www.youtube.com/watch?v=uaaqyVS9-rM
 1. I got my badge 
 
 
-
-
-
+## DAY 52: 17/11/2019
+1. How to solve this error message - image file is truncated (150 bytes not processed)
+Use the below code 
+"from PIL import ImageFile
+ImageFile.LOAD_TRUNCATED_IMAGES = True"
+2. 
 

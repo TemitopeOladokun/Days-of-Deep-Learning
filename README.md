@@ -452,3 +452,7 @@ Use the below code
 ImageFile.LOAD_TRUNCATED_IMAGES = True"
 2. 
 
+
+## DAY 53: 18/11/2019
+1. Indepth article on VGG16 Architecture    https://neurohive.io/en/popular-networks/vgg16/
+

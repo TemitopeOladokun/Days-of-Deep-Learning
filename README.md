@@ -459,3 +459,4 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True"
 ## DAY 54: 19/11/2019
 1. Understanding Resnet, Alexnet, VGG, Inception   
 https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
+2. Validation and Training Loss   https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/

@@ -456,3 +456,6 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True"
 ## DAY 53: 18/11/2019
 1. Indepth article on VGG16 Architecture    https://neurohive.io/en/popular-networks/vgg16/
 
+## DAY 54: 19/11/2019
+1. Understanding Resnet, Alexnet, VGG, Inception   
+https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/

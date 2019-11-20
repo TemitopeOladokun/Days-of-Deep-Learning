@@ -460,3 +460,14 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True"
 1. Understanding Resnet, Alexnet, VGG, Inception   
 https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
 2. Validation and Training Loss   https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/
+
+
+## DAY 54: 20/11/2019
+1 Research paper
+* https://www.nature.com/articles/nature21056.epdf?author_access_token=8oxIcYWf5UNrNpHsUHd2StRgN0jAjWel9jnR3ZoTv0NXpMHRAJy8Qn10ys2O4tuPakXos4UhQAFZ750CsBNMMsISFHIKinKDMKjShCpHIlYPYUHhNzkn6pSnOCt0Ftf6
+* https://fortune.com/2017/01/26/stanford-ai-skin-cancer/
+* https://www.bloomberg.com/news/articles/2017-06-29/diagnosing-skin-cancer-with-google-images
+* https://www.bbc.com/news/health-38717928
+* https://www.wsj.com/articles/computers-turn-medical-sleuths-and-identify-skin-cancer-1486740634?emailToken=JRrzcPt+aXiegNA9bcw301gwc7UFEfTMWk7NKjXPN0TNv3XR5Pmlyrgph8DyqGWjAEd26tYY7mAuACbSgWwvV8aXkLNl1A74KycC8smailE=
+* https://www.forbes.com/sites/forbestechcouncil/2017/09/27/what-can-computer-vision-do-in-the-palm-of-your-hand/#5d5e8db47a7b
+* https://www.scientificamerican.com/article/deep-learning-networks-rival-human-vision1/

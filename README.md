@@ -471,3 +471,4 @@ https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
 * https://www.wsj.com/articles/computers-turn-medical-sleuths-and-identify-skin-cancer-1486740634?emailToken=JRrzcPt+aXiegNA9bcw301gwc7UFEfTMWk7NKjXPN0TNv3XR5Pmlyrgph8DyqGWjAEd26tYY7mAuACbSgWwvV8aXkLNl1A74KycC8smailE=
 * https://www.forbes.com/sites/forbestechcouncil/2017/09/27/what-can-computer-vision-do-in-the-palm-of-your-hand/#5d5e8db47a7b
 * https://www.scientificamerican.com/article/deep-learning-networks-rival-human-vision1/
+2. RNN deals with sequential data while CNN deals with spatial images

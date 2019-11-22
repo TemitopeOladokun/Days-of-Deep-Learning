@@ -476,3 +476,8 @@ https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
 
 ## DAY 55: 21/11/2019
 1. Learnt how to upload images to Udacity wrokspace
+
+
+## DAY 56: 22/11/2019
+1. Read articles from MIT Technology Review. 
+Always insightful

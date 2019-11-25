@@ -489,3 +489,8 @@ Always insightful
 
 ## DAY 58: 24/11/2019
 Back Propagation in RNN
+
+
+## DAY 59: 25/11/2019
+Read an article on hyperparameter
+

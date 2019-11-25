@@ -492,5 +492,6 @@ Back Propagation in RNN
 
 
 ## DAY 59: 25/11/2019
-Read an article on hyperparameter
+1. Read an article on hyperparameter tunings
+2. Finally done with my second deep learning project 
 

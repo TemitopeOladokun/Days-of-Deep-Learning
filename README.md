@@ -481,3 +481,11 @@ https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
 ## DAY 56: 22/11/2019
 1. Read articles from MIT Technology Review. 
 Always insightful
+
+
+## DAY 57: 23/11/2019
+1. Read some article on RNN 
+
+
+## DAY 58: 24/11/2019
+Back Propagation in RNN

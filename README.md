@@ -496,5 +496,8 @@ Back Propagation in RNN
 2. Finally done with my second deep learning project 
 
 
-#DAY 60: 26/11/2019
+## DAY 60: 26/11/2019
 1. Article on Natural Language Processing (NLP).
+
+## DAY 61: 27/11/2019
+1. Difference between RNN and LSTM.

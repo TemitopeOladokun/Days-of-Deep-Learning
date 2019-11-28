@@ -501,3 +501,7 @@ Back Propagation in RNN
 
 ## DAY 61: 27/11/2019
 1. Difference between RNN and LSTM.
+
+
+## DAY 62: 28/11/2019
+Long Short Term Memory

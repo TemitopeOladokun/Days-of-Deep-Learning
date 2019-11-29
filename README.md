@@ -505,3 +505,6 @@ Back Propagation in RNN
 
 ## DAY 62: 28/11/2019
 Long Short Term Memory
+
+## DAY 63: 29/11/2019
+Preparing for Project 3 - Movie TV Predicting 

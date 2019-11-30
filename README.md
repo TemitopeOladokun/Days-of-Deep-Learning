@@ -508,3 +508,7 @@ Long Short Term Memory
 
 ## DAY 63: 29/11/2019
 Preparing for Project 3 - Movie TV Predicting 
+
+
+## DAY 64: 30/11/2019
+RNN and LSTM

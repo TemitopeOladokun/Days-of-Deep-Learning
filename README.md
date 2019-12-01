@@ -512,3 +512,12 @@ Preparing for Project 3 - Movie TV Predicting
 
 ## DAY 64: 30/11/2019
 RNN and LSTM
+
+
+## DAY 65: 01/12/2019
+Implementation of RNN and LSTM 
+
+
+What I learnt
+* Matrix operations make training more efficient 
+* Batch size correspond to the number of sequences

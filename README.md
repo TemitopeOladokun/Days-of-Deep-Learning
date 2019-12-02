@@ -518,6 +518,10 @@ RNN and LSTM
 Implementation of RNN and LSTM 
 
 
-What I learnt
+### WHAT I LEARNT
 * Matrix operations make training more efficient 
 * Batch size correspond to the number of sequences
+
+
+## DAY 66: 02/12/2019
+1. What are Tokenizers in RNN Implementation 

@@ -527,9 +527,10 @@ Implementation of RNN and LSTM
 1. What are Tokenizers in RNN Implementation 
 
 ## DAY 67: 03/12/2019
-1. Number of hidden layers and Units.
+1. Number of hidden layers and Units in RNN.
 https://cs231n.github.io/neural-networks-1/
 2. RNN Hyperparameters
+3. Word Embeddings
 
 ### WHAT I LEARNT
 * LSTM and GRU performs better than Vanilla RNN
@@ -540,3 +541,5 @@ https://arxiv.org/abs/1506.02078
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://arxiv.org/abs/1703.03906v2
 * Materials on Hyperparameter
+
+* In Word Embedding, you have to be careful of word bias or incorrect mappings of word

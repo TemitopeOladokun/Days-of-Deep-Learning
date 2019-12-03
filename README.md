@@ -543,3 +543,6 @@ https://arxiv.org/abs/1703.03906v2
 * Materials on Hyperparameter
 
 * In Word Embedding, you have to be careful of word bias or incorrect source text
+* Number of Hidden Unit is the Embedding Dimension.
+* Embedding look up table is the weight matrix
+* Embedding layer is the Hidden layer

@@ -542,4 +542,4 @@ https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://arxiv.org/abs/1703.03906v2
 * Materials on Hyperparameter
 
-* In Word Embedding, you have to be careful of word bias or incorrect mappings of word
+* In Word Embedding, you have to be careful of word bias or incorrect source text

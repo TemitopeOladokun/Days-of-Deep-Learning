@@ -525,3 +525,7 @@ Implementation of RNN and LSTM
 
 ## DAY 66: 02/12/2019
 1. What are Tokenizers in RNN Implementation 
+
+## DAY 67: 03/12/2019
+1. Number of hidden layers and Units 
+https://cs231n.github.io/neural-networks-1/

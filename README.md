@@ -539,3 +539,4 @@ http://proceedings.mlr.press/v37/jozefowicz15.pdf
 https://arxiv.org/abs/1506.02078
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://arxiv.org/abs/1703.03906v2
+* Materials on Hyperparameter

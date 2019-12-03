@@ -533,3 +533,9 @@ https://cs231n.github.io/neural-networks-1/
 
 ### WHAT I LEARNT
 * LSTM and GRU performs better than Vanilla RNN
+* LSTM vs GRU
+https://arxiv.org/abs/1412.3555
+http://proceedings.mlr.press/v37/jozefowicz15.pdf
+https://arxiv.org/abs/1506.02078
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://arxiv.org/abs/1703.03906v2

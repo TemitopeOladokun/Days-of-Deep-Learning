@@ -551,7 +551,7 @@ https://arxiv.org/abs/1703.03906v2
 
 
 ## DAY 68: 04/12/2019
-1. 
+1. Sentiment in RNN 
 
 
 ## DAY 69: 05/12/2019
@@ -559,6 +559,7 @@ https://arxiv.org/abs/1703.03906v2
 2. He explained Python OOP concept and shared some links
 https://www.reddit.com/r/learnpython/comments/5jgbiq/python_oop_series/
  
+https://www.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types/
 
 
 ## DAY 70: 06/12/2019

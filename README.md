@@ -495,6 +495,8 @@ Back Propagation in RNN
 1. Read an article on hyperparameter tunings
 2. Finally done with my second deep learning project 
 
+### WHAT I LEARNT 
+* My model is bias so I was advised by project reviewer to work on Data Augmentation. 
 
 ## DAY 60: 26/11/2019
 1. Article on Natural Language Processing (NLP).
@@ -553,7 +555,10 @@ https://arxiv.org/abs/1703.03906v2
 
 
 ## DAY 69: 05/12/2019
-1. 
+1. Zoom call with Sourena on Word Embedding, RNN and Code explanation
+2. He explained Python OOP concept and shared some links
+https://www.reddit.com/r/learnpython/comments/5jgbiq/python_oop_series/
+ 
 
 
 ## DAY 70: 06/12/2019

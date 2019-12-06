@@ -546,3 +546,16 @@ https://arxiv.org/abs/1703.03906v2
 * Number of Hidden Unit is the Embedding Dimension.
 * Embedding look up table is the weight matrix
 * Embedding layer is the Hidden layer
+
+
+## DAY 68: 04/12/2019
+1. 
+
+
+## DAY 69: 05/12/2019
+1. 
+
+
+## DAY 70: 06/12/2019
+1. Data Augmentation 
+https://medium.com/@thimblot/data-augmentation-boost-your-image-dataset-with-few-lines-of-python-155c2dc1baec

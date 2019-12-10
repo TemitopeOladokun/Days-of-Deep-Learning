@@ -565,3 +565,15 @@ https://www.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-
 ## DAY 70: 06/12/2019
 1. Data Augmentation 
 https://medium.com/@thimblot/data-augmentation-boost-your-image-dataset-with-few-lines-of-python-155c2dc1baec
+
+
+## DAY 71: 07/12/2019
+
+## DAY 72: 08/12/2019
+
+## DAY 73: 09/12/2019
+1. Learnt how to mount google drive
+2. Using Colab for my third Nanodegree Project
+
+## DAY 74: 10/12/2019
+1. Working on my RNN Project

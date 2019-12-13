@@ -542,7 +542,6 @@ http://proceedings.mlr.press/v37/jozefowicz15.pdf
 https://arxiv.org/abs/1506.02078
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://arxiv.org/abs/1703.03906v2
-* Materials on Hyperparameter
 
 * In Word Embedding, you have to be careful of word bias or incorrect source text
 * Number of Hidden Unit is the Embedding Dimension.
@@ -568,12 +567,60 @@ https://medium.com/@thimblot/data-augmentation-boost-your-image-dataset-with-few
 
 
 ## DAY 71: 07/12/2019
+1. Introduction to LSTM
+2. LSTM vs RNN
+3. LSTM Architecture
+4. Learn, Forget and Remember Gate
+
 
 ## DAY 72: 08/12/2019
+1. Hyperparameters
+
+### WHAT I LEARNT
+* Materials on Hyperparameter
+* Practical recommendations for gradient-based training of deep architectures by Yoshua Bengio - https://arxiv.org/abs/1206.5533
+* Practical Methodology by Ian Goodfellow, Yoshua Bengio, Aaron Courville - http://www.deeplearningbook.org/contents/guidelines.html
+* How to choose a neural network's hyper-parameters? by Michael Nielsen -http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_network's_hyper-parameters
+* Efficient Back Prop  by Yann LeCun - http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
+* How to Generate a Good Word Embedding? by Siwei Lai, Kang Liu, Liheng Xu, Jun Zhao - https://arxiv.org/abs/1507.05523
+* Systematic evaluation of CNN advances on the ImageNet by Dmytro Mishkin, Nikolay Sergievskiy, Jiri Matas - https://arxiv.org/abs/1606.02228
+Visualizing and Understanding Recurrent Networks by Andrej Karpathy, Justin Johnson, Li Fei-Fei - https://arxiv.org/abs/1506.02078
 
 ## DAY 73: 09/12/2019
 1. Learnt how to mount google drive
 2. Using Colab for my third Nanodegree Project
 
+### WHAT I LEARNT 
+* Modified my code
+
 ## DAY 74: 10/12/2019
 1. Working on my RNN Project
+
+## DAY 75: 11/12/2019
+1. Working on my third project
+
+### WHAT I LEARNT
+* Preprocessing the data in RNN is the hardest part of the project
+
+## DAY 76: 12/12/2019
+1. Started watching GANs videos
+2. Introduction to GANs
+3. Application of GANs
+4. Generator and Discriminator
+
+### WHAT I LEARNT
+* GANs is trained by running two (") optimization Algortithms simultaneously 
+* Game theory is use to understand GANs mathematically
+* Both discriminator and generator has at least one hidden layer
+
+
+## DAY 77: 13/12/2019
+1. Wrapping up my project
+
+
+
+
+
+
+
+

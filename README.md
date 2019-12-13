@@ -475,13 +475,13 @@ https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
 
 
 ## DAY 55: 21/11/2019
-1. Learnt how to upload images to Udacity wrokspace
+1. Learnt how to upload images to Udacity workspace
 
 
 ## DAY 56: 22/11/2019
 1. Read articles from MIT Technology Review. 
 Always insightful
-
+2. Documentation in Github https://help.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github
 
 ## DAY 57: 23/11/2019
 1. Read some article on RNN 

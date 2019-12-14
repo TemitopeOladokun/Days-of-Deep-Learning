@@ -627,5 +627,12 @@ https://www.youtube.com/watch?v=Sw9r8CL98N0
 https://www.youtube.com/watch?v=9JpdAg6uMXs
 3. Article on word embedding https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html
 
+## DAY 79: 15/12/2019
+1. Support Vector Machine
 
+
+
+### WHAT I LEARNT
+* They is robust to outliers
+* 
 

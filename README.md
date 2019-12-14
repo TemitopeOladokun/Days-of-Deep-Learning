@@ -622,7 +622,9 @@ Visualizing and Understanding Recurrent Networks by Andrej Karpathy, Justin John
 ## DAY 78: 14/12/2019
 1. Deepmind reinforcement learning framework 
 https://towardsdatascience.com/deepmind-quietly-open-sourced-three-new-impressive-reinforcement-learning-frameworks-f99443910b16
-
+2. Videos on GANs 
+https://www.youtube.com/watch?v=Sw9r8CL98N0
+https://www.youtube.com/watch?v=9JpdAg6uMXs
 
 
 

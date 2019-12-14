@@ -625,8 +625,7 @@ https://towardsdatascience.com/deepmind-quietly-open-sourced-three-new-impressiv
 2. Videos on GANs 
 https://www.youtube.com/watch?v=Sw9r8CL98N0
 https://www.youtube.com/watch?v=9JpdAg6uMXs
-
-
+3. Article on word embedding https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html
 
 
 

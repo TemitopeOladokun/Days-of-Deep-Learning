@@ -633,6 +633,9 @@ https://www.youtube.com/watch?v=9JpdAg6uMXs
 
 
 ### WHAT I LEARNT
-* They is robust to outliers
-* 
+* SVM is robust to outliers
 
+
+## DAY 80: 16/12/2019
+1. https://www.google.com/amp/s/venturebeat.com/2019/12/10/deepminds-dreamer-ai-uses-the-past-to-predict-the-future/amp/
+2. https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/ 

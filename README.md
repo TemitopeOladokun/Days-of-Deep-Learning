@@ -1,4 +1,5 @@
 # 30-days-of-Udacity
+### It was formally 30 days of Udacity but I later converted it to Days of Deep Learning.
 
 ## DAY 1 : 26/09/2019
 1. I took the pledge #30daysofUdacity in my Deep Learning Nanodegree.
@@ -643,3 +644,4 @@ https://www.youtube.com/watch?v=9JpdAg6uMXs
 
 ## DAY 81: 17/12/2019
 1. Sign language recognition in Pytorch.   https://towardsdatascience.com/sign-language-recognition-in-pytorch-5d72688f98b7
+2. https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_convolutional_neuralnetwork/

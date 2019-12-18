@@ -645,3 +645,8 @@ https://www.youtube.com/watch?v=9JpdAg6uMXs
 ## DAY 81: 17/12/2019
 1. Sign language recognition in Pytorch.   https://towardsdatascience.com/sign-language-recognition-in-pytorch-5d72688f98b7
 2. https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_convolutional_neuralnetwork/
+
+
+## DAY 82: 18/12/2019
+1. Video in statistics
+https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw

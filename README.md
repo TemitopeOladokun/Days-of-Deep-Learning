@@ -1,4 +1,4 @@
-# DAYS OF DEEP LEARNING 
+# DAYS OF DEEP LEARNING.
 ### It was formally 30 days of Udacity but I later converted it to Days of Deep Learning.
 
 ## DAY 1 : 26/09/2019

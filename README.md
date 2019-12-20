@@ -650,3 +650,7 @@ https://www.youtube.com/watch?v=9JpdAg6uMXs
 ## DAY 82: 18/12/2019
 1. Video in statistics
 https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
+
+
+## DAY 83: 19/12/2019
+https://apple.news/AoRVlsNoTRPeBcG0mESVNSw

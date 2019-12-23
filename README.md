@@ -654,3 +654,7 @@ https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
 
 ## DAY 83: 19/12/2019
 https://apple.news/AoRVlsNoTRPeBcG0mESVNSw
+
+
+## DAY 84: 20/12/2019
+Working on project 4- Generate Faces (GANs)

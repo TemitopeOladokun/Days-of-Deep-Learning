@@ -661,3 +661,6 @@ Working on project 4- Generate Faces (GANs)
 
 ## DAY 85: 21/12/2019
 Reading some GANs research papers
+
+## DAY 86: 22/12/2019
+Sub,itted my Github account for review

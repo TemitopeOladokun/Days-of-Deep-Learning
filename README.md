@@ -658,3 +658,6 @@ https://apple.news/AoRVlsNoTRPeBcG0mESVNSw
 
 ## DAY 84: 20/12/2019
 Working on project 4- Generate Faces (GANs)
+
+## DAY 85: 21/12/2019
+Reading some GANs research papers

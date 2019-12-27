@@ -684,7 +684,7 @@ vi. Inception      [https://arxiv.org/pdf/1409.4842.pdf]
 
 
 ## DAY 91: 27/12/2019
-1. Started Deployment of Sentiment Analysis
+1. Started Deployment of Sentiment Analysis Lectures
 
 
 

@@ -663,4 +663,30 @@ Working on project 4- Generate Faces (GANs)
 Reading some GANs research papers
 
 ## DAY 86: 22/12/2019
-Sub,itted my Github account for review
+Submitted my Github account for review
+
+## DAY 87: 23/12/2019
+
+## DAY 88: 24/12/2019
+
+
+## DAY 89: 25/12/2019
+
+
+## DAY 90: 26/12/2019
+Resources
+i. SSD   [https://arxiv.org/abs/1512.02325]
+ii. YOLO   [https://arxiv.org/abs/1506.02640]
+iii. Faster R-CNN   [https://arxiv.org/abs/1506.01497]
+iv. MobileNet    [https://arxiv.org/abs/1704.04861]
+v. ResNet    [https://arxiv.org/abs/1512.03385]
+vi. Inception      [https://arxiv.org/pdf/1409.4842.pdf]
+
+
+## DAY 91: 27/12/2019
+1. Started Deployment of Sentiment Analysis
+
+
+
+
+

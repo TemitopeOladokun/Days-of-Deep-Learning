@@ -666,13 +666,28 @@ Reading some GANs research papers
 Submitted my Github account for review
 
 ## DAY 87: 23/12/2019
+1. Machine Learning Workflow
+  i. Explore and Process data
+     * Retrieve
+     * Clean and Explore
+     * Prepare/Transform
 
 ## DAY 88: 24/12/2019
-
+1. Machine Learning Workflow
+  ii. Modeling
+    * Develop and Train model
+    * Validate and evaluate model
+    
+### WHAT I LEARNT 
+* Validation are use for model tuning and selection
 
 ## DAY 89: 25/12/2019
 1. Machine Learning Workflow
-
+  iii. Deployment
+    * Deploy to production
+    * Monitore and update model and data
+    
+    
 ## DAY 90: 26/12/2019
 Resources
 i. SSD   [https://arxiv.org/abs/1512.02325]
@@ -686,6 +701,14 @@ vi. Inception      [https://arxiv.org/pdf/1409.4842.pdf]
 ## DAY 91: 27/12/2019
 1. Started Deployment of Sentiment Analysis Lectures
 
+
+## DAY 92: 28/12/2019
+
+## DAY 93: 29/12/2019
+
+## DAY 94: 30/12/2019
+
+## DAY 95: 31/12/2019
 
 
 

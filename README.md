@@ -710,9 +710,11 @@ vi. Inception      [https://arxiv.org/pdf/1409.4842.pdf]
 https://towardsdatascience.com/machine-learning-part-4-reinforcement-learning-43070cbd83ab
 
 ## DAY 94: 30/12/2019
+1. Completed Lesson 2 of Deployment of Sentiment Analysis
 
 ## DAY 95: 31/12/2019
+2. Started Lesson 3 of Deployment of Sentiment Analysis
 
-
-
+## DAY 96: 01/01/2020
+Register the previous lectures 
 

@@ -716,5 +716,5 @@ https://towardsdatascience.com/machine-learning-part-4-reinforcement-learning-43
 2. Started Lesson 3 of Deployment of Sentiment Analysis
 
 ## DAY 96: 01/01/2020
-Register the previous lectures 
-
+1. Register the previous Lectures 
+2. Read some research papers

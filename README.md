@@ -718,3 +718,11 @@ https://towardsdatascience.com/machine-learning-part-4-reinforcement-learning-43
 ## DAY 96: 01/01/2020
 1. Register the previous Lectures 
 2. Read some research papers
+
+
+## DAY 97: 02/01/2020
+Read some research papers
+
+
+## DAY 98: 03/01/2020
+Did some research on how to write better codes

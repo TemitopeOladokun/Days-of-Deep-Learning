@@ -705,6 +705,10 @@ vi. Inception      [https://arxiv.org/pdf/1409.4842.pdf]
 ## DAY 92: 28/12/2019
 1. Learning how to use Amazon sagemaker.
 
+### WHAT I LEARNT
+* To deploy a model is to have an endpoint
+
+
 ## DAY 93: 29/12/2019
 1. Reinforcement Learning 
 https://towardsdatascience.com/machine-learning-part-4-reinforcement-learning-43070cbd83ab

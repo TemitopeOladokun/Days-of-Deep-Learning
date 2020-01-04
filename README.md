@@ -730,3 +730,8 @@ Read some research papers
 
 ## DAY 98: 03/01/2020
 Did some research on how to write better codes
+
+
+## DAY 99: 04/01/2020
+1. Deployment with Sagemaker
+2. Navigating Sagemaker interface 

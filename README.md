@@ -739,3 +739,5 @@ Did some research on how to write better codes
 
 ## DAY 100: 05/01/2019
 1. Scraping some website for data
+2. Deployment platform
+3. 

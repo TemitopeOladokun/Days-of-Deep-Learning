@@ -735,3 +735,7 @@ Did some research on how to write better codes
 ## DAY 99: 04/01/2020
 1. Deployment with Sagemaker
 2. Navigating Sagemaker interface 
+
+
+## DAY 100: 05/01/2019
+1. Scraping some website for data

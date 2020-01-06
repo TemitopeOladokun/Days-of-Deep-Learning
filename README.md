@@ -740,4 +740,14 @@ Did some research on how to write better codes
 ## DAY 100: 05/01/2019
 1. Scraping some website for data
 2. Deployment platform
-3. 
+
+
+## DAY 101: 06/01/2020
+1. Cloud Computing
+
+
+### WHAT I LEARNT
+* Benefit of cloud computing
+Amazon : https://aws.amazon.com/what-is-cloud-computing/
+Google : https://cloud.google.com/what-is-cloud-computing/
+Microsoft : https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/

@@ -744,7 +744,7 @@ Did some research on how to write better codes
 
 ## DAY 101: 06/01/2020
 1. Cloud Computing
-
+2. XGBoost material
 
 ### WHAT I LEARNT
 * Benefit of cloud computing
@@ -754,3 +754,4 @@ Microsoft : https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
 * Cloud computing can be used for any and all part of machine learning processes
 * Technologies like containers, endpoints, and APIs (Application Programming Interfaces) also help ease the work required for deploying a model into the production environment.
 * ONNX (Open Neural Network Exchange)    https://onnx.ai/
+* XGBoost material https://xgboost.readthedocs.io/en/latest/tutorials/model.html

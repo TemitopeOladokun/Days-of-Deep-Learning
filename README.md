@@ -751,3 +751,4 @@ Did some research on how to write better codes
 Amazon : https://aws.amazon.com/what-is-cloud-computing/
 Google : https://cloud.google.com/what-is-cloud-computing/
 Microsoft : https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
+* Cloud computing can be used for any and all part of machine learning processes

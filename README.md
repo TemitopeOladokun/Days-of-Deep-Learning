@@ -755,3 +755,6 @@ Microsoft : https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
 * Technologies like containers, endpoints, and APIs (Application Programming Interfaces) also help ease the work required for deploying a model into the production environment.
 * ONNX (Open Neural Network Exchange)    https://onnx.ai/
 * XGBoost material https://xgboost.readthedocs.io/en/latest/tutorials/model.html
+
+
+## DAY 102: 07/01/2020

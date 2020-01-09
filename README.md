@@ -761,6 +761,10 @@ Microsoft : https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
 1. Setting up my AWS Account
 
 ## DAY 103: 08/01/2020
+1. What are Instance 
 
+
+### WHAT I LEARNT
+* Instances are known as Virtual Machine
 
 ## DAY 104: 09/01/2020

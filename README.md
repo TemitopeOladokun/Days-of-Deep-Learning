@@ -758,6 +758,6 @@ Microsoft : https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
 
 
 ## DAY 102: 07/01/2020
-
+1. Setting up my AWS Account
 
 ## DAY 103: 08/01/2020

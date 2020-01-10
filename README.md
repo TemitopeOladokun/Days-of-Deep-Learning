@@ -768,3 +768,4 @@ Microsoft : https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
 * Instances are known as Virtual Machine
 
 ## DAY 104: 09/01/2020
+1. Preparing for deployment with Sagemaker.

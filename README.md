@@ -774,3 +774,6 @@ Microsoft : https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
 ## DAY 105: 10/01/2020
 1. Wrapped up deployment with sagemaker
 2. Started working on my last Nanodegree project
+
+
+## DAY 106: 11/01/2020

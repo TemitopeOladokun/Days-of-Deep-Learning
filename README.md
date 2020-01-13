@@ -778,3 +778,8 @@ Microsoft : https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
 
 ## DAY 106: 11/01/2020
 What are corpus?
+
+
+## DAY 107: 12/01/2020
+1. What is NLP
+2. Application of NLP

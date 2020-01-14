@@ -783,3 +783,6 @@ What are corpus?
 ## DAY 107: 12/01/2020
 1. What is NLP
 2. Application of NLP
+
+## DAY 108: 13/01/2020
+1. Techniques to solving AI project

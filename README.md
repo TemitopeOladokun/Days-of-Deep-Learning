@@ -790,3 +790,5 @@ What are corpus?
 
 ## DAY 109: 14/01/2020
 1. https://github.com/nscalo/swadel-monolith/tree/master/app/online/SpeechRecognition
+2. https://github.com/nscalo/swadel-monolith/tree/master/app/data/training/HandWrittenDigitsDataGAN
+3. https://github.com/HartP97/Lane-Detection

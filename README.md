@@ -786,3 +786,7 @@ What are corpus?
 
 ## DAY 108: 13/01/2020
 1. Techniques to solving AI project
+
+
+## DAY 109: 14/01/2020
+1. https://github.com/nscalo/swadel-monolith/tree/master/app/online/SpeechRecognition

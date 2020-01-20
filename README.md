@@ -792,3 +792,11 @@ What are corpus?
 1. https://github.com/nscalo/swadel-monolith/tree/master/app/online/SpeechRecognition
 2. https://github.com/nscalo/swadel-monolith/tree/master/app/data/training/HandWrittenDigitsDataGAN
 3. https://github.com/HartP97/Lane-Detection
+
+
+## DAY 110: 15/01/2020
+1. Researching about deploying a deep learning project using Sagemaker
+
+## DAY 111: 16/01/2020
+1. Speech Emotion Recognition with Convolutional Neural Network
+https://towardsdatascience.com/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3

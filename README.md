@@ -800,3 +800,9 @@ What are corpus?
 ## DAY 111: 16/01/2020
 1. Speech Emotion Recognition with Convolutional Neural Network
 https://towardsdatascience.com/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3
+
+## DAY 12: 17/01/2020
+Information about Amazon AWS
+i.   https://aws.amazon.com/sagemaker/pricing/
+ii.  https://aws.amazon.com/sagemaker/faqs/
+iii. https://www.youtube.com/user/AmazonWebServices

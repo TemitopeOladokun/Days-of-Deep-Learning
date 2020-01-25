@@ -446,6 +446,7 @@ On Autoencoder: https://www.youtube.com/watch?v=uaaqyVS9-rM
 1. I got my badge 
 
 
+
 ## DAY 52: 17/11/2019
 1. How to solve this error message - image file is truncated (150 bytes not processed)
 Use the below code 
@@ -810,3 +811,21 @@ iii. https://www.youtube.com/user/AmazonWebServices
 
 ## DAY 113: 18/01/2020
 1. Autonomous Learning library https://medium.com/syncedreview/autonomous-learning-library-simplifies-intelligent-agent-creation-c7ec60576a3e
+
+
+## DAY 114: 19/01/2020
+
+
+
+## DAY 115: 20/01/2020
+
+
+
+## DAY 116: 21/01/2020
+
+
+
+## DAY 117: 22/01/2020
+
+
+

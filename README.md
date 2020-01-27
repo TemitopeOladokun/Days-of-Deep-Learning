@@ -805,7 +805,9 @@ https://towardsdatascience.com/speech-emotion-recognition-with-convolution-neura
 ## DAY 112: 17/01/2020
 Information about Amazon AWS
 i.   https://aws.amazon.com/sagemaker/pricing/
+
 ii.  https://aws.amazon.com/sagemaker/faqs/
+
 iii. https://www.youtube.com/user/AmazonWebServices
 
 

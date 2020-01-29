@@ -820,8 +820,7 @@ iii. https://www.youtube.com/user/AmazonWebServices
 
 
 ## DAY 115: 20/01/2020
-
-
+Improving my Python skills
 
 ## DAY 116: 21/01/2020
 

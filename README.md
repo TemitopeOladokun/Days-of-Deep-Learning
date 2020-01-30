@@ -823,10 +823,10 @@ iii. https://www.youtube.com/user/AmazonWebServices
 Improving my Python skills
 
 ## DAY 116: 21/01/2020
-
+Trying to set up AWS account
 
 
 ## DAY 117: 22/01/2020
-
+Doing some study on the AWS documnetation
 
 

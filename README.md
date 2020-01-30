@@ -829,4 +829,7 @@ Trying to set up AWS account
 ## DAY 117: 22/01/2020
 Doing some study on the AWS documnetation
 
+## DAY 118: 23/01/2020
+Preprocessing data for a sentiment analysis project
+
 

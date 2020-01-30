@@ -832,4 +832,5 @@ Doing some study on the AWS documnetation
 ## DAY 118: 23/01/2020
 Preprocessing data for a sentiment analysis project
 
-
+## DAY 119: 24/01/2020
+Editted my data with nltk and beautifulsoup

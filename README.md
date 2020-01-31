@@ -834,3 +834,7 @@ Preprocessing data for a sentiment analysis project
 
 ## DAY 119: 24/01/2020
 Editted my data with nltk and beautifulsoup
+
+
+## DAY 120: 31/01/2020
+Completed my Udacity Deep Learning course

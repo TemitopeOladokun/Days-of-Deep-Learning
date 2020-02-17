@@ -90,8 +90,8 @@ https://www.youtube.com/watch?v=QHOazyP-YlM
 
 
 ## DAY 8: 03/10/2019
-1.	Completed all subtopics in Lesson 2 - Neural Networks 
-2.	Viewed my first project – Predicting Bike share pattern
+1. Completed all subtopics in Lesson 2 - Neural Networks 
+2. Viewed my first project – Predicting Bike share pattern
 
 ### WHAT I LEARNT
 * Difference between Underfitting and Overfitting
@@ -838,3 +838,6 @@ Editted my data with nltk and beautifulsoup
 
 ## DAY 120: 31/01/2020
 Completed my Udacity Deep Learning course
+
+## DAY 121: 01/02/2020
+https://towardsdatascience.com/web-scraping-5649074f3ead

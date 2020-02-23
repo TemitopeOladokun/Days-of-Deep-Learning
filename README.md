@@ -841,3 +841,10 @@ Completed my Udacity Deep Learning course
 
 ## DAY 121: 01/02/2020
 https://towardsdatascience.com/web-scraping-5649074f3ead
+
+
+## DAY 122: 02/02/2020
+1. Object-oriented Reinforcement Learning 
+https://towardsdatascience.com/object-oriented-reinforcement-learning-95c284427ea
+
+

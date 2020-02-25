@@ -850,4 +850,5 @@ https://towardsdatascience.com/object-oriented-reinforcement-learning-95c284427e
 ## DAY 123: 03/02/2020
 1. Studying the Mathematics of Machine Learning 
 
-
+## DAY 124: 04/02/2020
+Studying Linear Algebra

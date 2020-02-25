@@ -847,4 +847,7 @@ https://towardsdatascience.com/web-scraping-5649074f3ead
 1. Object-oriented Reinforcement Learning 
 https://towardsdatascience.com/object-oriented-reinforcement-learning-95c284427ea
 
+## DAY 123: 03/02/2020
+1. Studying the Mathematics of Machine Learning 
+
 

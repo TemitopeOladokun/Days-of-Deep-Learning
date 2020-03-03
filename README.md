@@ -852,3 +852,7 @@ https://towardsdatascience.com/object-oriented-reinforcement-learning-95c284427e
 
 ## DAY 124: 04/02/2020
 Studying Linear Algebra
+
+
+## DAY 125: 05/02/2020
+Studying Vectors 

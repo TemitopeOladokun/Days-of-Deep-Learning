@@ -856,3 +856,6 @@ Studying Linear Algebra
 
 ## DAY 125: 05/02/2020
 Studying Vectors 
+
+## DAY 126: 06/02/2020
+Studying Logistic Regression 

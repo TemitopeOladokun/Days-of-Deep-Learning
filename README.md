@@ -858,4 +858,7 @@ Studying Linear Algebra
 Studying Vectors 
 
 ## DAY 126: 06/02/2020
-Studying Logistic Regression 
+Studying Logistic Regression
+
+## DAY 127: 07/02/2020
+https://medium.com/datadriveninvestor/deep-learning-for-image-segmentation-d10d19131113

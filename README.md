@@ -868,3 +868,7 @@ https://medium.com/datadriveninvestor/deep-learning-for-image-segmentation-d10d1
 1. https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 2. https://en.wikipedia.org/wiki/U-Net
 3. https://www.marktechpost.com/free-resources/
+
+
+## DAY 129: 09/02/2020
+1. https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/

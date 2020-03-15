@@ -862,3 +862,8 @@ Studying Logistic Regression
 
 ## DAY 127: 07/02/2020
 https://medium.com/datadriveninvestor/deep-learning-for-image-segmentation-d10d19131113
+
+
+## DAY 128: 08/02/2020
+1. https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+2. https://en.wikipedia.org/wiki/U-Net

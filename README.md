@@ -872,3 +872,7 @@ https://medium.com/datadriveninvestor/deep-learning-for-image-segmentation-d10d1
 
 ## DAY 129: 09/02/2020
 1. https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/
+
+## DAY 130: 10/02/2020
+1. https://medium.com/analytics-vidhya/beginners-guide-to-object-detection-algorithms-6620fb31c375
+2. 

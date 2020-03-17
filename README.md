@@ -878,3 +878,4 @@ https://medium.com/datadriveninvestor/deep-learning-for-image-segmentation-d10d1
 
 ## DAY 131: 11/02/2020
 1. https://medium.com/deepquestai/object-detection-training-preparing-your-custom-dataset-6248679f0d1d
+2. https://medium.com/datadriveninvestor/how-to-create-custom-coco-data-set-for-object-detection-96ec91958f36

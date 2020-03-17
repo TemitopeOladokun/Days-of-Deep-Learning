@@ -875,4 +875,6 @@ https://medium.com/datadriveninvestor/deep-learning-for-image-segmentation-d10d1
 
 ## DAY 130: 10/02/2020
 1. https://medium.com/analytics-vidhya/beginners-guide-to-object-detection-algorithms-6620fb31c375
-2. 
+
+## DAY 131: 11/02/2020
+1. https://medium.com/deepquestai/object-detection-training-preparing-your-custom-dataset-6248679f0d1d

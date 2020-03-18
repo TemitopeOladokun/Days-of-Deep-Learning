@@ -883,3 +883,7 @@ https://medium.com/datadriveninvestor/deep-learning-for-image-segmentation-d10d1
 
 ## DAY 132: 12/02/2020
 1. https://towardsdatascience.com/image-pre-processing-c1aec0be3edf
+
+
+## DAY 133: 13/02/2020
+1. https://convertio.co/html-jpeg/

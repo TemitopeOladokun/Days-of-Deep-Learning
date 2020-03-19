@@ -887,3 +887,7 @@ https://medium.com/datadriveninvestor/deep-learning-for-image-segmentation-d10d1
 
 ## DAY 133: 13/02/2020
 1. https://convertio.co/html-jpeg/
+
+
+## DAY 134: 14/02/2020
+1. https://www.analyticsvidhya.com/blog/2019/10/building-image-classification-models-cnn-pytorch/

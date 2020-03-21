@@ -893,3 +893,7 @@ https://medium.com/tektorch-ai/best-image-labeling-tools-for-computer-vision-393
 
 ## DAY 135: 15/02/2020
 https://nanonets.com/blog/how-to-do-semantic-segmentation-using-deep-learning/
+
+
+## DAY 136: 16/02/2020
+https://www.mediterranee-infection.com/hydroxychloroquine-and-azithromycin-as-a-treatment-of-covid-19/

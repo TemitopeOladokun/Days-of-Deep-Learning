@@ -897,3 +897,4 @@ https://nanonets.com/blog/how-to-do-semantic-segmentation-using-deep-learning/
 
 ## DAY 136: 16/02/2020
 https://www.mediterranee-infection.com/hydroxychloroquine-and-azithromycin-as-a-treatment-of-covid-19/
+https://nanonets.com/blog/data-augmentation-how-to-use-deep-learning-when-you-have-limited-data-part-2/

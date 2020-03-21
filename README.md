@@ -890,3 +890,6 @@ https://medium.com/datadriveninvestor/deep-learning-for-image-segmentation-d10d1
 
 ## DAY 134: 14/02/2020
 https://medium.com/tektorch-ai/best-image-labeling-tools-for-computer-vision-393e256be0a0
+
+## DAY 135: 15/02/2020
+https://nanonets.com/blog/how-to-do-semantic-segmentation-using-deep-learning/

@@ -902,3 +902,7 @@ https://nanonets.com/blog/data-augmentation-how-to-use-deep-learning-when-you-ha
 
 ## DAY 137: 17/02/2020
 https://hackernoon.com/the-best-image-annotation-platforms-for-computer-vision-an-honest-review-of-each-dac7f565fea
+
+
+## DAY 138: 18/02/2020
+https://cs50.harvard.edu/ai/

@@ -906,3 +906,4 @@ https://hackernoon.com/the-best-image-annotation-platforms-for-computer-vision-a
 
 ## DAY 138: 18/02/2020
 https://cs50.harvard.edu/ai/
+https://deepsense.ai/region-of-interest-pooling-explained/

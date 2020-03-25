@@ -908,3 +908,6 @@ https://hackernoon.com/the-best-image-annotation-platforms-for-computer-vision-a
 https://cs50.harvard.edu/ai/
 https://deepsense.ai/region-of-interest-pooling-explained/
 https://medium.com/@jonathan_hui/image-segmentation-with-mask-r-cnn-ebe6d793272
+
+## DAY 139: 19/02/2020
+https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html

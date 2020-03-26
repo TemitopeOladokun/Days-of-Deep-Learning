@@ -911,3 +911,8 @@ https://medium.com/@jonathan_hui/image-segmentation-with-mask-r-cnn-ebe6d793272
 
 ## DAY 139: 19/02/2020
 https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
+
+## DAY 140: 20/02/2020
+https://github.com/VirajDeshwal/COVID-19?files=1
+
+

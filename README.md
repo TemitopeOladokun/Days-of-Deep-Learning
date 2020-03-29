@@ -915,4 +915,5 @@ https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
 ## DAY 140: 20/02/2020
 https://github.com/VirajDeshwal/COVID-19?files=1
 
-
+## DAY 141: 21/02/2020
+https://medium.com/anolytics/how-to-label-data-for-semantic-segmentation-deep-learning-models-907a996f95f7

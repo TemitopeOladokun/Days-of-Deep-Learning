@@ -922,3 +922,4 @@ https://medium.com/anolytics/how-to-label-data-for-semantic-segmentation-deep-le
 Annotation Tools video
 1. https://www.youtube.com/watch?time_continue=20&v=fXalzNpYLGg&feature=emb_logo
 2. https://www.youtube.com/watch?time_continue=6&v=VyUwHbqJ26g&feature=emb_logo
+3. https://www.youtube.com/watch?v=iTvG3G84Ez4

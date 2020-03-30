@@ -919,4 +919,6 @@ https://github.com/VirajDeshwal/COVID-19?files=1
 https://medium.com/anolytics/how-to-label-data-for-semantic-segmentation-deep-learning-models-907a996f95f7
 
 ## DAY 142: 22/02/2020
-https://www.youtube.com/watch?time_continue=20&v=fXalzNpYLGg&feature=emb_logo
+Annotation Tools video
+1. https://www.youtube.com/watch?time_continue=20&v=fXalzNpYLGg&feature=emb_logo
+2. https://www.youtube.com/watch?time_continue=6&v=VyUwHbqJ26g&feature=emb_logo

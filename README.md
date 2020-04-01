@@ -924,3 +924,5 @@ Annotation Tools video
 2. https://www.youtube.com/watch?time_continue=6&v=VyUwHbqJ26g&feature=emb_logo
 3. https://www.youtube.com/watch?v=iTvG3G84Ez4
 4. https://hackernoon.com/the-best-image-annotation-platforms-for-computer-vision-an-honest-review-of-each-dac7f565fea
+
+## DAY 143: 23/02/2020

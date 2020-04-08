@@ -926,5 +926,5 @@ Annotation Tools video
 4. https://hackernoon.com/the-best-image-annotation-platforms-for-computer-vision-an-honest-review-of-each-dac7f565fea
 
 ## DAY 143: 23/02/2020
-[Data Augumentation for Deep Learning](https://towardsdatascience.com/data-augmentation-for-deep-learning-4fe21d1a4eb9)
-https://www.arunponnusamy.com/preparing-custom-dataset-for-training-yolo-object-detector.html
+1. [Data Augumentation for Deep Learning](https://towardsdatascience.com/data-augmentation-for-deep-learning-4fe21d1a4eb9)
+2. https://www.arunponnusamy.com/preparing-custom-dataset-for-training-yolo-object-detector.html

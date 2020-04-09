@@ -928,3 +928,6 @@ Annotation Tools video
 ## DAY 143: 23/02/2020
 1. [Data Augumentation for Deep Learning](https://towardsdatascience.com/data-augmentation-for-deep-learning-4fe21d1a4eb9)
 2. https://www.arunponnusamy.com/preparing-custom-dataset-for-training-yolo-object-detector.html
+
+
+## DAY 144: 24/02/2020

@@ -931,3 +931,4 @@ Annotation Tools video
 
 
 ## DAY 144: 24/02/2020
+1. https://www.arunponnusamy.com/preparing-custom-dataset-for-training-yolo-object-detector.html

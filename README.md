@@ -935,3 +935,5 @@ Annotation Tools video
 
 ## DAY 145: 25/02/2020
 1. https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/
+
+## DAY 146: 24/05/2020

@@ -937,3 +937,4 @@ Annotation Tools video
 1. https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/
 
 ## DAY 146: 24/05/2020
+[Machine Learning videos](https://m.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)

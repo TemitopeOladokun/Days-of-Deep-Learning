@@ -936,5 +936,9 @@ Annotation Tools video
 ## DAY 145: 25/02/2020
 1. https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/
 
-## DAY 146: 24/05/2020
+## DAY 146: 24/04/2020
 [Machine Learning videos](https://m.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
+## DAY 147: 07/05/2020
+[On Seeing Stuff: The Perception of Materials by Humans and
+Machines](http://persci.mit.edu/pub_pdfs/adelson_spie_01.pdf)

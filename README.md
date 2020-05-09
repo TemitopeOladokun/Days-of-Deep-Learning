@@ -942,3 +942,5 @@ Annotation Tools video
 ## DAY 147: 07/05/2020
 [On Seeing Stuff: The Perception of Materials by Humans and
 Machines](http://persci.mit.edu/pub_pdfs/adelson_spie_01.pdf)
+
+## DAY 148: 09/05/2020

@@ -944,3 +944,4 @@ Annotation Tools video
 Machines](http://persci.mit.edu/pub_pdfs/adelson_spie_01.pdf)
 
 ## DAY 148: 13/05/2020
+https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-image-with-python-and-opencv/

@@ -947,3 +947,4 @@ Machines](http://persci.mit.edu/pub_pdfs/adelson_spie_01.pdf)
 https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-image-with-python-and-opencv/
 
 ## DAY 149: 20/05/2020
+[To copy a website or webapp](https://httrack.com)

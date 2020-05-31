@@ -948,3 +948,5 @@ https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-i
 
 ## DAY 149: 20/05/2020
 [To copy a website or webapp](https://httrack.com)
+
+## DAY 150: 31/05/2020

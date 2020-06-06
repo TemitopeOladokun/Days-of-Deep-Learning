@@ -950,3 +950,6 @@ https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-i
 [To copy a website or webapp](https://httrack.com)
 
 ## DAY 150: 01/06/2020
+1. https://www.programiz.com/python-programming/modules 
+2. https://www.w3schools.com/python/python_modules.asp
+3. https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html

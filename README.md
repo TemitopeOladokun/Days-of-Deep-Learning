@@ -953,3 +953,6 @@ https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-i
 1. https://www.programiz.com/python-programming/modules 
 2. https://www.w3schools.com/python/python_modules.asp
 3. https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html
+
+## DAY 151: 06/07/2020
+[Building a segmentation model from scratch using Deep Learning](https://mc.ai/building-a-segmentation-model-from-scratch-using-deep-learning/)

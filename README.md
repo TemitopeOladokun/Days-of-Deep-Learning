@@ -957,4 +957,5 @@ https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-i
 ## DAY 151: 06/07/2020
 [Building a segmentation model from scratch using Deep Learning](https://mc.ai/building-a-segmentation-model-from-scratch-using-deep-learning/)
 
-## DAY 152: 
+## DAY 152: 12/07/2020
+

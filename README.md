@@ -962,4 +962,5 @@ https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-i
 * Batch size
 * Number of Workers 
 
-## DAY 153: 06/08/2020
+## DAY 153: 11/08/2020
+

@@ -963,4 +963,4 @@ https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-i
 * Number of Workers 
 
 ## DAY 153: 11/08/2020
-
+[How to apply continual learning to your machine learning models](https://towardsdatascience.com/how-to-apply-continual-learning-to-your-machine-learning-models-4754adcd7f7f)

@@ -968,4 +968,4 @@ https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-i
 ## DAY 154: 21/08/2020
 [Fast AI](https://www.fast.ai/)
 
-## DAY 155: 07/09/2020
+## DAY 155: 08/09/2020

@@ -1,5 +1,5 @@
 # DAYS OF DEEP LEARNING.
-### It was formally 30 days of Udacity but I converted it to Days of Deep Learning. Hurray
+### It was formally 30 days of Udacity but I converted it to Days of Deep Learning. 
 
 ## DAY 1 : 26/09/2019
 1. I took the pledge #30daysofUdacity in my Deep Learning Nanodegree.

@@ -970,4 +970,5 @@ https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-i
 
 ## DAY 155: 01/02/2021
 [What’s New In Gartner’s Hype Cycle For Emerging Technologies, 2020](https://www.forbes.com/sites/louiscolumbus/2020/08/23/whats-new-in-gartners-hype-cycle-for-emerging-technologies-2020/?sh=59321c08a46a)
+[secure-data-science-reference-architecture GitHub](https://github.com/aws-samples/secure-data-science-reference-architecture)
  
